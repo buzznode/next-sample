@@ -1,7 +1,7 @@
 {
-  "name": "next-starter",
+  "name": "next-sample",
   "version": "1.0.0",
-  "description": "A Next.js Starter Application",
+  "description": "A Next.js Sample Play-Around Application",
   "main": "index.js",
   "scripts": {
     "build": "next build",
